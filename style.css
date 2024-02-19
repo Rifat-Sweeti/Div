@@ -1,0 +1,113 @@
+.body {
+    background-image: url(https://shorturl.at/aFINV);
+    background-size: cover;
+    background-position: center;
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+}
+
+.pink {
+    width: 300px;
+    height: 275px;
+    background-color: pink;
+    border: 2px solid;
+    border-style: dashed;
+    border-color: #E0115F;
+    font-size: 50px;
+    font-family: poppins;
+    color: #eb6e9d;
+}
+
+@font-face {
+    font-family: poppins;
+    src: url(Fonts/GermaniaOne-Regular.ttf);
+}
+
+.blue {
+    width: 300px;
+    height: 275px;
+    background-color: rgb(35, 200, 241);
+    border: 2px solid;
+    border-style: dashed;
+    border-color: #0066b2;
+    font-size: 50px;
+    font-family: bold;
+    color: #118ae7;
+    position: left;
+}
+
+@font-face {
+    font-family: bold;
+    src: url(Fonts/GreatVibes-Regular.ttf);
+}
+
+.purple {
+    width: 300px;
+    height: 275px;
+    background-color: plum;
+    border: 2px solid;
+    border-style: dashed;
+    border-color: #795d71;
+    font-size: 50px;
+    font-family: italic;
+    color: purple;
+}
+
+@font-face {
+    font-family: italic;
+    src: url(Fonts/RubikGlitch-Regular.ttf);
+}
+
+.orange {
+    width: 300px;
+    height: 275px;
+    background-color: orange;
+    border: 2px solid;
+    border-style: dashed;
+    border-color: 	#C04000;
+    font-size: 50px;
+    font-family: underline;
+    color: #a13b08d3;
+}
+
+@font-face {
+    font-family: underline;
+    src: url(Fonts/RubikGlitchPop-Regular.ttf);
+}
+
+.yellow {
+    width: 300px;
+    height: 275px;
+    background-color: rgb(136, 235, 252);
+    border: 2px solid;
+    border-style: dashed;
+    border-color: darkkhaki;
+    font-size: 50px;
+    font-family: cursives;
+    color: #05554e;
+}
+
+@font-face {
+    font-family: cursives;
+    src: url(Fonts/Workbench-Regular-VariableFont_BLED\,SCAN.ttf);
+}
+
+.green {
+    width: 300px;
+    height: 275px;
+    background-color: greenyellow;
+    border: 2px solid;
+    border-style: dashed;
+    border-color: 	#2AAA8A;
+    font-size: 50px;
+    font-family: under;
+    color: rgb(15, 160, 15);
+}
+
+@font-face {
+    font-family: under;
+    src: url(Fonts/ProtestGuerrilla-Regular.ttf);
+}
